@@ -29,7 +29,7 @@ Sin fricciones: acceso inmediato. [![google](https://img.shields.io/badge/login%
 
 <div align="center">
 
-<img src=".github/assets/Acelerada-por-Emprelatam.png" alt="Startup acelerada por Emprelatam · ECL17" width="260" />
+<img src="https://raw.githubusercontent.com/Facilia-AI/.github/main/assets/Acelerada-por-Emprelatam.png" alt="Startup acelerada por Emprelatam · ECL17" width="260" />
 
 `Facilia AI fue seleccionada por Emprelatam para integrar su cohorte ECL17, programa de aceleración de startups de alto impacto en Latinoamérica.`
 
